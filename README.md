@@ -29,7 +29,7 @@
 <body>
   
   <!-- LOGO -->
-  <img src="logo.JPG" alt="Logo Diviértete Animaciones">
+  <img src="logo.jpg" alt="Logo Diviértete Animaciones">
 
   <h1>🎈 Bienvenidos a Diviértete Animaciones 🎉</h1>
   
